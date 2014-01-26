@@ -41,7 +41,7 @@ private static void setEnvrnt(String[] args ) throws IOException
 
 	
 	setIOForm(args);
-    setOutputFileName(args);
+        setOutputFileName(args);
 
 
 
