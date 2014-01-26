@@ -19,7 +19,7 @@ import java.util.Scanner;
 
 public class TextBuddy {
       
-	private static File outputFile;
+	private static File outputFile; //
 	private static List <String> tempFile = new ArrayList<String>();
     private static String[] cmdSet={"add","display","delete","clear","exit"};
     private static String EXIT_CMD,CLEAR_CMD,DELETE_CMD,DISPLAY_CMD,ADD_CMD;
@@ -211,6 +211,7 @@ public static void addContent(String content) throws IOException
 
 
 }
+// delete all contents in the output file, with option to print message
 public static void deleteAllContent(boolean ifPrintMessage) throws IOException
 {
 
