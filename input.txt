@@ -1,0 +1,13 @@
+add take bus to fairprice
+add take taxi back
+add walk to west coast plaza
+display
+delete 2
+display
+delete 2
+add go to CS2103 lecture
+display
+clear
+add go back home and sleep
+display
+exit
