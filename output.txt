@@ -1,45 +1,51 @@
-Welcome to TextBuddy.myTextBuddy.txt.txt is ready for use.
+Welcome to TextBuddy.TextBuddyOutput-myTextBuddy.txtis ready for use.
 command: add take bus to fairprice
 
-added to myTextBuddy.txt: "take bus to fairprice"
+added to TextBuddyOutput-myTextBuddy.txt: "take bus to fairprice"
 
 command: add take taxi back
 
-added to myTextBuddy.txt: "take taxi back"
+added to TextBuddyOutput-myTextBuddy.txt: "take taxi back"
 
 command: add walk to west coast plaza
 
-added to myTextBuddy.txt: "walk to west coast plaza"
+added to TextBuddyOutput-myTextBuddy.txt: "walk to west coast plaza"
 
 command: display
 
-1. take bus to fairprice
+1. go back home and sleep
+2. take bus to fairprice
+3. take taxi back
+4. walk to west coast plaza
+command: delete 2
+
+deleted from TextBuddyOutput-myTextBuddy.txt: take bus to fairprice
+command: display
+
+1. go back home and sleep
 2. take taxi back
 3. walk to west coast plaza
 command: delete 2
 
-deleted from myTextBuddy.txt: take taxi back
-command: display
-
-1. take bus to fairprice
-2. walk to west coast plaza
-command: delete 2
-
-deleted from myTextBuddy.txt: walk to west coast plaza
+deleted from TextBuddyOutput-myTextBuddy.txt: take taxi back
 command: add go to CS2103 lecture
 
-added to myTextBuddy.txt: "go to CS2103 lecture"
+added to TextBuddyOutput-myTextBuddy.txt: "go to CS2103 lecture"
 
 command: display
 
-1. take bus to fairprice
-2. go to CS2103 lecture
+1. go back home and sleep
+2. take taxi back
+3. walk to west coast plaza
+4. go back home and sleep
+5. walk to west coast plaza
+6. go to CS2103 lecture
 command: clear
 
-all content deleted from myTextBuddy.txt
+all content deleted from TextBuddyOutput-myTextBuddy.txt
 command: add go back home and sleep
 
-added to myTextBuddy.txt: "go back home and sleep"
+added to TextBuddyOutput-myTextBuddy.txt: "go back home and sleep"
 
 command: display
 
